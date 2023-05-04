@@ -16,4 +16,4 @@ Use the left and right arrow keys to move the basket horizontally. Try to catch 
 If you want to customize the game, you can modify the variables in the script.js file.
 
 # Technologies Used
-Catch the Game is built using HTML, CSS, and JavaScript, and NodeJs.
+Catch the Game is built using HTML, CSS, JavaScript, and NodeJs.
